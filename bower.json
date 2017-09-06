@@ -1,0 +1,20 @@
+{
+  "name": "proj1",
+  "description": "Randomtest",
+  "main": "index.js",
+  "authors": [
+    "Ndolo S <shadrack.winters@outlook.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
